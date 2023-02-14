@@ -85,7 +85,8 @@ Bot yang sudah tidak aktif agar dihapus atau dicoret.
 - [English Chatbot](https://t.me/TokisakiChatBot) -- Simple and Fast Chatbot. [Repository](https://t.me/zYxDevs/KurumiChatbot).
 - [Anime Info Robot](https://t.me/TomoeRobot) -- Fitur: Livechat.me, Crunchyroll, Subsplease updates notify, Auth to [AniList](https://anilist.co) account.
 - [Asuna Yuuki](https://t.me/YogaWaifuBot) -- Group Management Bot with many features, [check here](https://t.me/YogaWaifuBot?start=help).
-
+- [OpenAi Junior Bot](https://t.me/openaijunior_bot) -- Telegram Bot menggunakan API dari OpenAi (Text Davinci 3).
+ 
 ### Group / Channel
 
 Pengelolaan Group ataupun Channel
